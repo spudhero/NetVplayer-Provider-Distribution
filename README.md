@@ -14,7 +14,7 @@ Official signed playback extensions and update indexes for the [NetVplayer macOS
 | [QuickJS 目录](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.catalog.quickjs-v1.1.0-arm64) | 1.1.0 | 1.0.0 |
 | [可配置 Python](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.configurable.python-v1.1.0-arm64) | 1.1.0 | 1.0.0 |
 
-应用通常自动安装和更新兼容组件。在“设置 → 扩展支持”选择“重新检查”可查看更新。Python 目录 1.1.0 需要主程序至少 1.1.0；当前稳定应用 1.0.12 可继续使用已安装且兼容的历史版本。主程序壳 1.1.0 源码已公开，稳定应用下载见[最新应用 Release](https://github.com/spudhero/NetVplayer/releases/latest)。
+应用通常自动安装和更新兼容组件。在“设置 → 扩展支持”选择“重新检查”可查看更新。Python 目录 1.1.0 需要主程序至少 1.1.0；主程序安装包与源码均已发布 1.1.0；旧版 1.0.12 可继续使用已安装且兼容的历史版本，或升级至 1.1.0。稳定应用下载见[最新应用 Release](https://github.com/spudhero/NetVplayer/releases/latest)。
 
 - [stable/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/stable/index.json)：官方签名更新索引，当前包含 22 项发行记录，保留全部 17 项历史版本。
 - [diagnostics/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/diagnostics/index.json)：需主动选择的离线传输诊断通道，不由 stable 自动安装。
@@ -34,7 +34,7 @@ All five **Provider 1.1.0** bundles were published on 2026-10-07 for **macOS 14+
 | [QuickJS catalog](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.catalog.quickjs-v1.1.0-arm64) | 1.1.0 | 1.0.0 |
 | [Configurable Python](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.configurable.python-v1.1.0-arm64) | 1.1.0 | 1.0.0 |
 
-The application normally installs and updates compatible components automatically. Use Settings → Verified Extensions → Check Again to check for updates. Python catalog 1.1.0 requires application 1.1.0; the current stable application 1.0.12 can continue using installed, compatible historical packages. The 1.1.0 shell source is public; application downloads are available from the [latest application Release](https://github.com/spudhero/NetVplayer/releases/latest).
+The application normally installs and updates compatible components automatically. Use Settings → Verified Extensions → Check Again to check for updates. Python catalog 1.1.0 requires application 1.1.0; application 1.1.0 and the shell source are released. Older application 1.0.12 can continue using installed, compatible historical packages or upgrade to 1.1.0. Application downloads are available from the [latest application Release](https://github.com/spudhero/NetVplayer/releases/latest).
 
 - [stable/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/stable/index.json): the official signed update index, currently containing 22 release entries with all 17 historical entries preserved.
 - [diagnostics/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/diagnostics/index.json): a separate opt-in channel for offline transport diagnostics, never automatically selected from stable.
