@@ -14,7 +14,7 @@ Official signed playback extensions and update indexes for the [NetVplayer macOS
 | [QuickJS 目录](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.catalog.quickjs-v1.1.2-arm64) | 1.1.2 | 1.0.0 |
 | [可配置 Python](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.configurable.python-v1.1.0-arm64) | 1.1.0 | 1.0.0 |
 
-应用通常自动安装和更新兼容组件。在“设置 → 扩展支持”选择“重新检查”可查看更新。Python 目录 1.1.6 需要主程序至少 1.1.0；主程序 1.1.1 同步提供最新播放与返回路径修复；旧版 1.0.12 可继续使用已安装且兼容的历史版本，或升级至 1.1.1。稳定应用下载见[最新应用 Release](https://github.com/spudhero/NetVplayer/releases/latest)。
+应用通常自动安装和更新兼容组件。在“设置 → 扩展支持”选择“重新检查”可查看更新。Python 目录 1.1.6 需要主程序至少 1.1.0；主程序 1.1.2 修复课堂选集、UC 智能播放 403 和网盘续播恢复，扩展版本保持上表不变；旧版 1.0.12 可继续使用已安装且兼容的历史版本，或升级至 1.1.2。稳定应用下载见[最新应用 Release](https://github.com/spudhero/NetVplayer/releases/latest)。
 
 - [stable/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/stable/index.json)：官方签名更新索引，当前包含 26 项发行记录，保留更新前全部 22 项记录及吊销列表。
 - [diagnostics/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/diagnostics/index.json)：需主动选择的离线传输诊断通道，不由 stable 自动安装。
@@ -34,7 +34,7 @@ Four catalog packages were updated with the latest fixes on 2026-10-09; configur
 | [QuickJS catalog](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.catalog.quickjs-v1.1.2-arm64) | 1.1.2 | 1.0.0 |
 | [Configurable Python](https://github.com/spudhero/NetVplayer-Provider-Distribution/releases/tag/provider-netvplayer.configurable.python-v1.1.0-arm64) | 1.1.0 | 1.0.0 |
 
-The application normally installs and updates compatible components automatically. Use Settings → Verified Extensions → Check Again to check for updates. Python catalog 1.1.6 requires application 1.1.0 or later; application 1.1.1 includes the latest playback and navigation fixes. Older application 1.0.12 can continue using installed, compatible historical packages or upgrade to 1.1.1. Application downloads are available from the [latest application Release](https://github.com/spudhero/NetVplayer/releases/latest).
+The application normally installs and updates compatible components automatically. Use Settings → Verified Extensions → Check Again to check for updates. Python catalog 1.1.6 requires application 1.1.0 or later; application 1.1.2 fixes classroom episode selection, UC smart-play HTTP 403, and drive resume recovery, with extension versions unchanged from the table above. Older application 1.0.12 can continue using installed, compatible historical packages or upgrade to 1.1.2. Application downloads are available from the [latest application Release](https://github.com/spudhero/NetVplayer/releases/latest).
 
 - [stable/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/stable/index.json): the official signed update index, currently containing 26 release entries with all 22 previous entries and revocations preserved.
 - [diagnostics/index.json](https://spudhero.github.io/NetVplayer-Provider-Distribution/diagnostics/index.json): a separate opt-in channel for offline transport diagnostics, never automatically selected from stable.
