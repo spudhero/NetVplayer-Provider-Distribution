@@ -4,7 +4,7 @@ Official signed playback extensions and update indexes for the [NetVplayer macOS
 
 ## 中文
 
-截至 **2026-11-22**，已发布 Python 目录 **1.1.19** 和 Java 目录 **1.1.6**。组件面向 **macOS 14+ / Apple Silicon arm64**，支持用户自行提供的配置与服务。主程序、各扩展和 Android 完整环境分别使用独立版本号。
+截至 **2026-11-22**，配套正式应用为 **NetVplayer 2.0.8（build 59）**。目前提供 Python 目录 **1.1.19** 和 Java 目录 **1.1.6**。组件面向 **macOS 14+ / Apple Silicon arm64**，支持用户自行提供的配置与服务。主程序、各扩展和 Android 完整环境分别使用独立版本号。
 
 | Provider | 版本 | 最低主程序版本 |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Java 1.1.6 复用已实测的签名清单和 JAR，公开下载的 SHA-256 与�
 
 ## English
 
-As of **2026-11-22**, Python catalog **1.1.19** and Java catalog **1.1.6** are available for **macOS 14+ / Apple Silicon arm64**. Components support configurations and services supplied by users. The application, each extension, and the complete Android runtime use independent versions.
+As of **2026-11-22**, the companion application is **NetVplayer 2.0.8 (build 59)**. Python catalog **1.1.19** and Java catalog **1.1.6** are available for **macOS 14+ / Apple Silicon arm64**. Components support configurations and services supplied by users. The application, each extension, and the complete Android runtime use independent versions.
 
 | Provider | Version | Minimum application version |
 | --- | --- | --- |
